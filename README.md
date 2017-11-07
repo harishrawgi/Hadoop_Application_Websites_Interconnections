@@ -1,3 +1,5 @@
+### NOTE: Access all the files inside the WebFinder folder, We apologize for wrongly uploading files without making a folder.
+
 ### Haddop implementation of application to find links between websites
 A repository containing our term project for the Network Programming Course of Fall semester 2017, NIT Raipur.
 
