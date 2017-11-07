@@ -1,4 +1,4 @@
-### NP_Project
+### Haddop implementation of application to find links between websites
 A repository containing our term project for the Network Programming Course of Fall semester 2017, NIT Raipur.
 
 This project has been made by a collaborative teamwork of the following students-
