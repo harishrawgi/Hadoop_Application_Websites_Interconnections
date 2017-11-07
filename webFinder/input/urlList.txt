@@ -1,0 +1,4 @@
+http://www.bing.com
+http://www.tudou.com
+http://www.youku.com
+http://www.qq.com
